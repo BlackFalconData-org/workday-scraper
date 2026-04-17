@@ -2,11 +2,12 @@
 
 Extract structured data from [myworkdayjobs.com](https://myworkdayjobs.com) — job listings from any Workday-powered careers site. Extract titles, descriptions, salary, location, remote type, and more from myworkdayjobs.com company pages.
 
-**[Workday Scraper on Apify →](https://apify.com/blackfalcondata/workday-scraper)**
+**[Workday Scraper - Corporate Career Sites on Apify →](https://apify.com/blackfalcondata/workday-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [myworkdayjobs.com](https://myworkdayjobs.com) — 
 ---
 
 ## Use cases
+
 
 
 
@@ -82,6 +84,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
